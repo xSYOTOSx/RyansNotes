@@ -18,8 +18,8 @@ to close the virtual enviroment just press Ctrl+C in the terminal.
 git add .
 git commit -m "Add Comment here"
 git push origin main
+gh-deploy
 ```
  
 Checkout your site at [https://xsyotosx.github.io/RyansNotes/](https://xsyotosx.github.io/RyansNotes/)
 
-Do i have to use mkdocs gh-deploy??

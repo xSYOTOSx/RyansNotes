@@ -28,7 +28,6 @@ theme:
 
 
 markdown_extensions:
-  - tables
    #Emojis
   - attr_list
   - pymdownx.emoji:
@@ -62,8 +61,7 @@ markdown_extensions:
 extra_javascript:
   - mathjax-config.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
+   
 #extra:
 #  social:
 #    - icon: simple/youtube
