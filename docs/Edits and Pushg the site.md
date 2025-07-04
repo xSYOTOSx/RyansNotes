@@ -21,3 +21,5 @@ git push origin main
 ```
  
 Checkout your site at [https://xsyotosx.github.io/RyansNotes/](https://xsyotosx.github.io/RyansNotes/)
+
+Do i have to use mkdocs gh-deploy??
