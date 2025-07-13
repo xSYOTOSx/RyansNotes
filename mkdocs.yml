@@ -12,6 +12,13 @@ theme:
 
   #for toggleable settings
   palette:
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: gray
+      accent: black  
     # Dark Mode
     - scheme: slate
       toggle:
@@ -19,14 +26,7 @@ theme:
         name: Dark mode
       primary: green
       accent: deep purple
-
-    # Light Mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Light mode
-      primary: gray
-      accent: black   
+ 
 
 
 markdown_extensions:
