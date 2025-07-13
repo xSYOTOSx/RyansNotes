@@ -1,6 +1,8 @@
 site_name: Ryan's Notes
 site_url: https://sitename.example
 theme:
+  font:
+    text: Literata
   name: material
   icon:
     logo: fontawesome/solid/r
@@ -23,8 +25,8 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange    
+      primary: gray
+      accent: black   
 
 
 markdown_extensions:
