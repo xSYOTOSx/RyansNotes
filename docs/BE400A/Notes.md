@@ -1,5 +1,5 @@
 ---
-title: Vector Algebra sss
+title: Beechjet Notes
 weight: 10
 ---
 
